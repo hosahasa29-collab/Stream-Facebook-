@@ -1,0 +1,16 @@
+{
+  "name": "m3u8-streamer-js",
+  "version": "1.0.0",
+  "description": "M3U/M3U8 Streamer to Facebook using Node.js and FFmpeg",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
